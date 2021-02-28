@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 *This Week I Spent My Time On:*
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP    1 min           ████████████▓░░░░░░░░░░░░   51.20 % 
 ```
 <!--END_SECTION:waka-->
