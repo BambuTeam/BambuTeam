@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 *This Week I Spent My Time On:*
 <!--START_SECTION:waka-->
 ```text
-CSS          3 hrs 45 mins   ███████████▒░░░░░░░░░░░░░   45.74 % 
-JSX          2 hrs 31 mins   ███████▓░░░░░░░░░░░░░░░░░   30.79 % 
-JavaScript   1 hr 55 mins    ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+CSS          2 hrs 53 mins   ███████████▓░░░░░░░░░░░░░   46.05 % 
+JSX          1 hr 43 mins    ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+JavaScript   1 hr 39 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.38 % 
 ```
 <!--END_SECTION:waka-->
