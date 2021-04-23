@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 *This Week I Spent My Time On:*
 <!--START_SECTION:waka-->
 ```text
-SCSS         8 hrs 25 mins   ██████████▓░░░░░░░░░░░░░░   43.11 % 
-JSX          6 hrs 47 mins   ████████▓░░░░░░░░░░░░░░░░   34.79 % 
-CSS          1 hr 59 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-JavaScript   1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-PHP          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+SCSS         7 hrs 17 mins   █████████████░░░░░░░░░░░░   51.91 % 
+JSX          5 hrs 11 mins   █████████▒░░░░░░░░░░░░░░░   37.00 % 
+CSS          56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+JavaScript   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+PHP          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 <!--END_SECTION:waka-->
