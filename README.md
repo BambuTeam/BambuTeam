@@ -1,7 +1,7 @@
 
 🚀 
 
-<img align="left" alt="HTML5" width="26px" src="http://bambu-corp.com/s3/mask.gif" /> <strong>*STAY SAFE*</strong>
+<img align="left" alt="HTML5" width="50px" src="http://bambu-corp.com/s3/mask.gif" /> <strong>*STAY SAFE*</strong>
 Hi there 👋
 
 <!--
