@@ -1,6 +1,12 @@
 
 🚀 
 
+<lord-icon
+    src="https://cdn.lordicon.com/yalwfksd.json"
+    trigger="loop"
+    colors="primary:#121331,secondary:#08a88a"
+    style="width:250px;height:250px">
+</lord-icon>
 
 Hi there 👋
 
