@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 *This Week I Spent My Time On:*
 <!--START_SECTION:waka-->
 ```text
-CSS          1 hr 37 mins    █████████▓░░░░░░░░░░░░░░░   38.97 % 
-JavaScript   1 hr 30 mins    █████████░░░░░░░░░░░░░░░░   36.10 % 
-PHP          53 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.44 % 
-HTML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+CSS          1 hr 38 mins    █████████▓░░░░░░░░░░░░░░░   38.90 % 
+JavaScript   1 hr 30 mins    █████████░░░░░░░░░░░░░░░░   35.47 % 
+PHP          54 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.41 % 
+HTML         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 <!--END_SECTION:waka-->
 
