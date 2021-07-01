@@ -55,7 +55,7 @@ HTML         10 mins         ▒░░░░░░░░░░░░░░░░
 
 ### Currently learning about:
 <img align="left" alt="ARKit" width="26px" src="https://developer.apple.com/assets/elements/icons/arkit/arkit-96x96_2x.png" />
-<img align="left" alt="ARCore" width="26px" src="https://arvr.google.com/static/images/arcore/arcore_logo_icon.svg" />
+<img align="left" alt="ARCore" width="20px" src="https://arvr.google.com/static/images/arcore/arcore_logo_icon.svg" />
 <img align="left" alt="AndroidStudio" width="26px" src="https://developer.android.com/images/picto-icons/android.svg" />
 
 
