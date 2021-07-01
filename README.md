@@ -45,6 +45,6 @@ HTML         10 mins         ▒░░░░░░░░░░░░░░░░
 ### Skills:
 
 <img align="left" alt="Illustrator" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" />
-<img align="left" alt="Photoshop" width="26px" src="https://worldvectorlogo.com/es/logo/photoshop-cc-4" />
+<img align="left" alt="Photoshop" width="26px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" />
 <img align="left" alt="Indesign" width="26px" src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" />
 
