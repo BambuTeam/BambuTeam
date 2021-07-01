@@ -6,8 +6,8 @@ Hi there 👋
 <br />
 
 - 💬 Ask me about <strong>development@bambu.team</strong>
-- 🔭 I’m currently working on <strong>Bambu Team | Development Area</strong>
--  I’m currently learning   <strong>Unity 3D</strong><img align="left" alt="HTML5" width="20px" src="https://cdn.svgporn.com/logos/unity.svg" />
+- 🔭 Currently working on <strong>Bambu Team | Development Area</strong>
+-  Currently learning   <strong>Unity 3D</strong><img align="left" alt="HTML5" width="20px" src="https://cdn.svgporn.com/logos/unity.svg" />
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BambuTeam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
