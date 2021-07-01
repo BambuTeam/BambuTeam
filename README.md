@@ -34,6 +34,7 @@ HTML         10 mins         ▒░░░░░░░░░░░░░░░░
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="BEM" width="26px" src="https://cdn.svgporn.com/logos/bem.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -50,7 +51,12 @@ HTML         10 mins         ▒░░░░░░░░░░░░░░░░
 <img align="left" alt="Xd" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" />
 <img align="left" alt="Figma" width="20px" src="https://cdn.svgporn.com/logos/figma.svg" />
 <img align="left" alt="Sketch" width="26px" src="https://cdn.svgporn.com/logos/sketch.svg" />
+<br />
 
+### Currently learning about:
+<img align="left" alt="ARKit" width="26px" src="https://developer.apple.com/assets/elements/icons/arkit/arkit-96x96_2x.png" />
+<img align="left" alt="ARCore" width="26px" src="https://arvr.google.com/static/images/arcore/arcore_logo_icon.svg" />
+<img align="left" alt="AndroidStudio" width="26px" src="https://developer.android.com/images/picto-icons/android.svg" />
 
 
 
