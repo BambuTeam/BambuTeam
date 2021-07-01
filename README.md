@@ -47,4 +47,10 @@ HTML         10 mins         ▒░░░░░░░░░░░░░░░░
 <img align="left" alt="Illustrator" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" />
 <img align="left" alt="Photoshop" width="26px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" />
 <img align="left" alt="Indesign" width="26px" src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" />
+<img align="left" alt="Xd" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.svgporn.com/logos/figma.svg" />
+<img align="left" alt="Sketch" width="26px" src="https://cdn.svgporn.com/logos/sketch.svg" />
+
+
+
 
