@@ -5,11 +5,7 @@
 Hi there 👋
 
 <br />
-<!--
-**BambuTeam/BambuTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 - 💬 Ask me about <strong>development@bambu.team</strong>
 - 🔭 I’m currently working on <strong>Bambu Team | Development Area</strong>
 -  I’m currently learning   <strong>Unity 3D</strong><img align="left" alt="HTML5" width="26px" src="https://cdn.svgporn.com/logos/unity.svg" />
