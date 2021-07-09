@@ -1,5 +1,5 @@
 
-<img align="left" alt="HTML5" width="40px" src="https://image.flaticon.com/icons/png/512/3695/3695759.png" /> <strong>*STAY SAFE*</strong>
+<img align="left" alt="HTML5" width="40px" src="http://bambu-corp.com/s3/emoji-dev.png" /> <strong>*STAY SAFE*</strong>
 <br />
 Hi there 👋
 
