@@ -1,5 +1,5 @@
 
-<img align="left" alt="HTML5" width="70px" src="http://bambu-corp.com/s3/emoji-dev.png" style:/> <strong>*STAY SAFE*</strong>
+<img align="left" alt="HTML5" width="70px" src="http://bambu-corp.com/s3/emoji-dev.png"  style="margin-top: -18px;"/> <strong>*STAY SAFE*</strong>
 <br />
 Hi there 👋
 
