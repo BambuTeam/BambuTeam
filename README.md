@@ -16,7 +16,7 @@ Hi there 👋
 *This Week I Spent My Time On:*
 <!--START_SECTION:waka-->
 ```text
-JSX          3 mins          ██████████████████████▓░░   90.14 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
