@@ -16,7 +16,8 @@ Hi there 👋
 *This Week I Spent My Time On:*
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSX          28 mins         ██████████████░░░░░░░░░░░   55.69 % 
+JavaScript   22 mins         ███████████░░░░░░░░░░░░░░   43.83 % 
 ```
 <!--END_SECTION:waka-->
 
