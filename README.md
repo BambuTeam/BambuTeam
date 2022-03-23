@@ -11,7 +11,6 @@ Hi there 👋
 - 🔭 Currently working on <strong>Bambu Team | Development Area</strong>
 - Currently learning   <strong>Unity 3D</strong><img align="left" alt="HTML5" width="20px" src="https://cdn.svgporn.com/logos/unity.svg" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BambuTeamryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BambuTeam&layout=compact&theme=dark" />
 
