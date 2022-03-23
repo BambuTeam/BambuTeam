@@ -56,4 +56,6 @@ Other        0 secs          ▓░░░░░░░░░░░░░░░░
 <img align="left" alt="AndroidStudio" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BambuTeam)](https://git.io/streak-stats)
+
 
