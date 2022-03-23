@@ -5,6 +5,8 @@ Hi there 👋
 
 <br />
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BambuTeam&theme=gotham&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
 - 💬 Ask me about <strong>development@bambu.team</strong>
 - 🔭 Currently working on <strong>Bambu Team | Development Area</strong>
 - Currently learning   <strong>Unity 3D</strong><img align="left" alt="HTML5" width="20px" src="https://cdn.svgporn.com/logos/unity.svg" />
@@ -55,6 +57,5 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 <img align="left" alt="AndroidStudio" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BambuTeam)](https://git.io/streak-stats)
 
 
