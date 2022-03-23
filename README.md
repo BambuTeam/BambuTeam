@@ -42,7 +42,7 @@ Other        0 secs          ▓░░░░░░░░░░░░░░░░
 
 ### Skills:
 
-<img align="left" alt="Illustrator" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" />
+<img align="left" alt="Illustrator" width="26px" src="https://helpx.adobe.com/content/dam/help/mnemonics/ai_cc_app_RGB.svg" />
 <img align="left" alt="Photoshop" width="26px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" />
 <img align="left" alt="Indesign" width="26px" src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" />
 <img align="left" alt="Xd" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" />
