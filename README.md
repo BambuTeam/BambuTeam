@@ -35,7 +35,7 @@ Other        0 secs          ▓░░░░░░░░░░░░░░░░
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://aws1.discourse-cdn.com/github/original/3X/4/6/4607bf071815b928202030de4b8de5b498581a2b.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Git Kraken" width="26px" src="https://cdn.svgporn.com/logos/gitkraken.svg" />
 <br />
