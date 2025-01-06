@@ -19,7 +19,7 @@ Hi there 👋
 <!--START_SECTION:waka-->
 
 ```txt
-PHP   17 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
