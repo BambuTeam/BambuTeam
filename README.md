@@ -47,7 +47,7 @@ No activity tracked
 <img align="left" alt="Photoshop" width="26px" src="https://img.icons8.com/?size=100&id=hksmgkMI669m&format=png&color=000000" />
 <img align="left" alt="Indesign" width="26px" src="https://img.icons8.com/?size=100&id=51lMuEpYaQ8k&format=png&color=000000" />
 <img align="left" alt="Indesign" width="26px" src="https://img.icons8.com/?size=100&id=K8Ttz87NEjvn&format=png&color=000000" />
-<img align="left" alt="Indesign" width="26px" src="https://img.icons8.com/?size=100&id=K8Ttz87NEjvn&format=png&color=000000" />
+<img align="left" alt="Indesign" width="26px" src="https://img.icons8.com/?size=100&id=uvgBYQi80IOJ&format=png&color=000000" />
 <img align="left" alt="Indesign" width="26px" src="https://img.icons8.com/?size=100&id=tkuwWnXfr4fn&format=png&color=000000" />
 <img align="left" alt="Xd" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" />
 <img align="left" alt="Figma" width="20px" src="https://cdn.svgporn.com/logos/figma.svg" />
