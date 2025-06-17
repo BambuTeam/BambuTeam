@@ -53,6 +53,7 @@ No activity tracked
 <img align="left" alt="Xd" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" />
 <img align="left" alt="Figma" width="20px" src="https://cdn.svgporn.com/logos/figma.svg" />
 <img align="left" alt="Sketch" width="26px" src="https://cdn.svgporn.com/logos/sketch.svg" />
+<img align="left" alt="Sketch" width="26px" src="http://www.bambu.team/wp-content/uploads/2025/06/svgviewer-png-output.png" />
 <br />
 
 ### Currently learning about:
