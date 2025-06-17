@@ -38,7 +38,7 @@ No activity tracked
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Git Kraken" width="26px" src="https://cdn.svgporn.com/logos/gitkraken.svg" />
+<img align="left" alt="Git Kraken" width="116px" src="https://cdn.svgporn.com/logos/gitkraken.svg" />
 <br />
 
 ### Skills:
