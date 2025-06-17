@@ -10,7 +10,7 @@ Hi there 👋
 
 - 💬 Ask me about <strong>development@bambu.team</strong>
 - 🔭 Currently working on <strong>Bambu Team | Development Area</strong>
-- Currently learning   <strong>Unity 3D</strong><img align="left" alt="HTML5" width="20px" src="https://cdn.svgporn.com/logos/unity.svg" />
+- Currently learning <strong>Unity 3D</strong><img align="left" alt="HTML5" width="20px" src="https://cdn.svgporn.com/logos/unity.svg" />
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BambuTeam&layout=compact&theme=dark" />
@@ -43,7 +43,7 @@ No activity tracked
 
 ### Skills:
 
-<img align="left" alt="Illustrator" width="26px" src="https://helpx.adobe.com/content/dam/help/mnemonics/ai_cc_app_RGB.svg" />
+<img align="left" alt="Illustrator" width="26px" src="https://img.icons8.com/?size=100&id=Lq5kMukvoW5c&format=png&color=000000" />
 <img align="left" alt="Photoshop" width="26px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" />
 <img align="left" alt="Indesign" width="26px" src="https://helpx.adobe.com/content/dam/help/mnemonics/id_cc_app_RGB.svg" />
 <img align="left" alt="Xd" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" />
