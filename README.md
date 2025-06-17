@@ -38,7 +38,7 @@ No activity tracked
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Git Kraken" width="116px" src="https://cdn.svgporn.com/logos/gitkraken.svg" />
+<img align="left" alt="Git Kraken" width="26px" src="https://cdn.svgporn.com/logos/gitkraken.svg" />
 <br />
 
 ### Skills:
@@ -53,7 +53,7 @@ No activity tracked
 <img align="left" alt="Xd" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" />
 <img align="left" alt="Figma" width="20px" src="https://cdn.svgporn.com/logos/figma.svg" />
 <img align="left" alt="Sketch" width="26px" src="https://cdn.svgporn.com/logos/sketch.svg" />
-<img align="left" alt="Sketch" width="26px" src="http://www.bambu.team/wp-content/uploads/2025/06/svgviewer-png-output.png" />
+<img align="left" alt="Sketch" width="116px" src="http://www.bambu.team/wp-content/uploads/2025/06/svgviewer-png-output.png" />
 <br />
 
 ### Currently learning about:
