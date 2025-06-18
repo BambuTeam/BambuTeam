@@ -1,7 +1,7 @@
 
 <img align="left" alt="HTML5" width="100px" src="http://www.bambu.team/wp-content/uploads/2025/06/memoji.png"/>
 <br>
-- 🔭 Currently working on <strong>Bambu Team | Development Area</strong>
+- 🔭 Currently working on <strong>Bambu Team | Development Area</strong> <br>
 - Currently learning <strong>Unity 3D</strong><img align="left" alt="HTML5" width="20px" src="https://cdn.svgporn.com/logos/unity.svg" />
 
 
