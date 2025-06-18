@@ -17,8 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BambuTeam&layout=compact&theme=dark" />
 </p>
 
-🧰 Lenguajes y Herramientas <br>
-👨‍💻 Frontend & Web Development
+🧰 Lenguajes y Herramientas 👨‍💻 Frontend & Web Development <br>
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="26px" style="margin-right:10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="26px" style="margin-right:10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="26px" style="margin-right:10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="26px" style="margin-right:10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="26px" style="margin-right:10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="26px" style="margin-right:10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="26px" style="margin-right:10px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="26px" style="margin-right:10px;" /> </p><br>
 🧑‍🎨 UI / UX Design
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="26px" style="margin-right:10px;" /> <img src="https://cdn.svgporn.com/logos/sketch.svg" alt="Sketch" width="26px" style="margin-right:10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="26px" style="margin-right:10px;" /> </p><br>
