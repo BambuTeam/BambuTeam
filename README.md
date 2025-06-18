@@ -2,7 +2,7 @@
   <img alt="Memoji" width="120px" src="http://www.bambu.team/wp-content/uploads/2025/06/memoji.png" />
 </p>
 
-<h1 align="center">Hola 👋, soy parte del equipo Bambu</h1>
+<h1 align="center">Hola 👋, soy Luis Enrique Concuá</h1>
 
 <p align="center">
   🔭 Actualmente trabajando en <strong>Bambu Team | Área de Desarrollo</strong><br>
