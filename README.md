@@ -1,5 +1,5 @@
 
-<img align="left" alt="HTML5" width="100px" src="http://www.bambu.team/wp-content/uploads/2025/06/memoji.png"/> <strong>*STAY SAFE*</strong>
+<img align="left" alt="HTML5" width="100px" src="http://www.bambu.team/wp-content/uploads/2025/06/memoji.png"/>
 <br />
 <br />
 Hi there 👋
