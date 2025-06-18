@@ -5,8 +5,8 @@
 <h1 align="center">Hola 👋, soy Luis Enrique Concuá</h1>
 
 <p align="center">
-  🔭 Actualmente trabajando en <strong>Bambu Team | Área de Desarrollo</strong><br>
-  🎮 Aprendiendo <strong>Unity 3D</strong> <img alt="Unity" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  🔭 Actualmente trabajando en <strong><a href="https://www.instagram.com/bambu.team/?hl=en" target="_blank">Bambu Team | Área de Desarrollo</a></strong><br>
+  🎮 Aprendiendo <strong>Unity 3D</strong> 
 </p>
 
 ---
