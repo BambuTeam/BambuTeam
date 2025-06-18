@@ -1,10 +1,6 @@
 
 <img align="left" alt="HTML5" width="100px" src="http://www.bambu.team/wp-content/uploads/2025/06/memoji.png"/>
-<br />
-<br />
-Hi there 👋
 
-<br />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BambuTeam&theme=gotham&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
