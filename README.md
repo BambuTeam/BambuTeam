@@ -2,30 +2,37 @@
   <img alt="Memoji" width="120px" src="https://grupotritech.com/Media/Quiniela/memoji.png" />
 </p>
 
-<h1 align="center">Hola 👋, soy Luis Enrique Concuá</h1>
+<h1 align="center">Luis Enrique Concuá</h1>
 
 <p align="center">
-  🚀 Frontend Developer • Creative Technologist • AI-driven Builder <br>
+  🚀 Frontend Developer • Creative Technologist • AI Builder <br>
   🎨 UI/UX • 3D • Motion • Experiencias Interactivas <br>
-  🧠 Fundador de <strong><a href="https://www.instagram.com/byconcua.studio/" target="_blank">ByConcua Studio</a></strong><br>
-  🤝 Colaborando en <strong><a href="https://www.instagram.com/bambu.team/" target="_blank">Bambu Team</a></strong><br>
-  ⚡ Enfocado en <strong>React • Three.js • AI Workflows</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/byconcua.studio/" target="_blank"><strong>ByConcua Studio</strong></a> •
+  <a href="https://www.instagram.com/bambu.team/" target="_blank"><strong>Bambu Team</strong></a>
+</p>
+
+<p align="center">
+  ⚡ Construyendo experiencias donde convergen código, diseño, 3D e inteligencia artificial
 </p>
 
 ---
 
-### 🧠 Sobre mí
+## 🧠 Sobre mí
 
-Desarrollador frontend enfocado en experiencias digitales de alto impacto, combinando código, diseño, 3D e inteligencia artificial.
+Desarrollador frontend enfocado en experiencias digitales de alto impacto.  
+Combino desarrollo, diseño y tecnologías emergentes para crear interfaces modernas, interactivas y visualmente potentes.
 
-- 🎯 Especializado en **UX/UI + Interacción + Performance**
-- 🧩 Construyo productos web modernos con enfoque visual
-- 🤖 Integrando **AI tools en flujos reales de desarrollo**
-- 🌎 Experiencia en proyectos multidisciplinarios (dev + diseño + multimedia)
+- 🎯 UX/UI + Interacción + Performance  
+- 🧩 Creative Development + WebGL  
+- 🤖 AI workflows aplicados a diseño y desarrollo  
+- 🌎 Experiencia en proyectos multidisciplinarios  
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=BambuTeam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -38,9 +45,9 @@ Desarrollador frontend enfocado en experiencias digitales de alto impacto, combi
 
 ---
 
-### 🧠 Tech Stack
+## 🧠 Tech Stack
 
-#### 💻 Frontend & Web
+### 💻 Frontend & Web
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26px"/>
@@ -53,21 +60,23 @@ Desarrollador frontend enfocado en experiencias digitales de alto impacto, combi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="26px"/>
 </p>
 
-#### 🤖 AI & New Tools
+---
+
+### 🤖 AI & New Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26px"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="26px"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26px"/>
 </p>
 
 - ⚡ Cursor (AI-first coding)
 - 🧠 Prompt Engineering
-- 🔁 AI-assisted workflows (design, code, content)
+- 🔁 AI-assisted workflows
 - 🛠️ Experimentación con herramientas emergentes (Antigravity, etc.)
 
 ---
 
-#### ⚡ Creative Dev & 3D
+### ⚡ Creative Dev & 3D
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="26px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="26px"/>
@@ -76,7 +85,7 @@ Desarrollador frontend enfocado en experiencias digitales de alto impacto, combi
 
 ---
 
-#### 🎨 UI / UX & Diseño
+### 🎨 UI / UX & Diseño
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="26px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="26px"/>
@@ -84,7 +93,7 @@ Desarrollador frontend enfocado en experiencias digitales de alto impacto, combi
 
 ---
 
-#### 🎬 Creativo & Multimedia
+### 🎬 Creativo & Multimedia
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="26px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="26px"/>
@@ -94,7 +103,7 @@ Desarrollador frontend enfocado en experiencias digitales de alto impacto, combi
 
 ---
 
-#### ⚙️ Dev Tools & Infra
+### ⚙️ Dev Tools & Infra
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26px"/>
@@ -105,24 +114,101 @@ Desarrollador frontend enfocado en experiencias digitales de alto impacto, combi
 
 ---
 
-### 🚀 Actualmente explorando
-
-- 🧠 React Three Fiber (R3F) + WebGL avanzado  
-- 🤖 AI + Frontend (interfaces inteligentes)  
-- 🎮 Unity + AR (ARKit / ARCore)  
-- ⚡ Webs experimentales (interacción avanzada)  
-
----
-
-### 🌐 Conecta conmigo
+## 🧪 Featured Interactive Projects
 
 <p align="center">
-  <a href="https://www.instagram.com/byconcua.studio/" target="_blank">ByConcua Studio</a> •
-  <a href="https://www.instagram.com/bambu.team/" target="_blank">Bambu Team</a>
+  Experiencias digitales donde combino código, diseño y 3D.
 </p>
 
 ---
 
+### 🚀 Interactive 3D Experience
+
 <p align="center">
-  ✨ Construyendo experiencias donde convergen código, diseño, 3D e inteligencia artificial.
+  <a href="https://tu-demo.com" target="_blank">
+    <img src="https://via.placeholder.com/1200x600.gif?text=3D+Experience+Preview" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  Experiencia web con navegación en 3D, animaciones fluidas y storytelling visual.
+</p>
+
+<p align="center">
+  🏆 WebGL • 🎨 Creative Dev • ⚡ Performance
+</p>
+
+<p align="center">
+  <strong>Stack:</strong> React • Three.js • R3F • GSAP
+</p>
+
+<p align="center">
+  <a href="#">🌐 Live</a> • <a href="#">📦 Code</a>
+</p>
+
+---
+
+### 🎮 WebGL Product Showcase
+
+<p align="center">
+  <a href="#">
+    <img src="https://via.placeholder.com/1200x600.gif?text=WebGL+Showcase" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  Visualización 3D interactiva orientada a producto con iluminación dinámica.
+</p>
+
+<p align="center">
+  🧠 Interactive • 💡 Lighting • 🎯 UX Focus
+</p>
+
+<p align="center">
+  <strong>Stack:</strong> Three.js • Blender • WebGL
+</p>
+
+<p align="center">
+  <a href="#">🌐 Live</a> • <a href="#">📦 Code</a>
+</p>
+
+---
+
+### 🧠 Experimental Portfolio
+
+<p align="center">
+  <a href="#">
+    <img src="https://via.placeholder.com/1200x600.gif?text=Interactive+Portfolio" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  Portafolio experimental con navegación no convencional y microinteracciones.
+</p>
+
+<p align="center">
+  ⚡ Motion • 🎨 Minimal • 🧪 Experimental
+</p>
+
+<p align="center">
+  <strong>Stack:</strong> React • Framer Motion • Three.js
+</p>
+
+<p align="center">
+  <a href="#">🌐 Live</a> • <a href="#">📦 Code</a>
+</p>
+
+---
+
+## 🚀 Actualmente explorando
+
+- 🧠 React Three Fiber (R3F) avanzado  
+- 🤖 AI + Frontend (interfaces inteligentes)  
+- 🎮 Unity + AR (ARKit / ARCore)  
+- ⚡ Webs experimentales tipo Awwwards  
+
+---
+
+<p align="center">
+  ✨ Building next-gen digital experiences
 </p>
