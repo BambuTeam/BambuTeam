@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Memoji" width="120px" src="https://www.bambu.team/wp-content/uploads/2025/06/memoji.png" />
+  <img alt="Memoji" width="120px" src="https://grupotritech.com/Media/Quiniela/memoji.png" />
 </p>
 
 <h1 align="center">Hola 👋, soy Luis Enrique Concuá</h1>
