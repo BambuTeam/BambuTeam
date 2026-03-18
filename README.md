@@ -8,7 +8,7 @@
   🚀 Frontend Developer & Creative Technologist <br>
   🎨 UI/UX + Diseño + Experiencias Interactivas <br>
   🔭 Actualmente en <strong><a href="https://www.instagram.com/bambu.team/" target="_blank">Bambu Team</a></strong><br>
-  🎮 Explorando <strong>Three.js, React Three Fiber & Unity</strong>
+  🧠 Enfocado en <strong>React, Three.js & Experiencias Web Avanzadas</strong>
 </p>
 
 ---
@@ -26,62 +26,65 @@
 
 #### 💻 Frontend & Web
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="26px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="26px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="26px"/>
+</p>
+
+#### ⚡ Creative Dev & 3D
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="26px"/>
+  <img src="https://raw.githubusercontent.com/pmndrs/react-three-fiber/master/docs/logo.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="26px"/>
 </p>
 
 #### 🎨 UI / UX & Diseño
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="26px"/>
-  <img src="https://cdn.svgporn.com/logos/sketch.svg" width="26px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-plain.svg" width="26px"/>
 </p>
 
 #### 🎬 Creativo & Multimedia
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="26px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="26px"/>
-  <img src="https://img.icons8.com/?size=100&id=K8Ttz87NEjvn&format=png" width="26px"/>
-  <img src="https://img.icons8.com/?size=100&id=uvgBYQi80IOJ&format=png" width="26px"/>
-  <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/firefly-appicon-64-new.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="26px"/>
 </p>
 
-#### ⚙️ Dev Tools
+#### ⚙️ Dev Tools & Infra
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26px"/>
-  <img src="https://cdn.svgporn.com/logos/gitkraken.svg" width="26px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="26px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="26px"/>
-  <img src="https://elementor.com/wp-content/uploads/2021/10/logo-symbol-red.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="26px"/>
 </p>
 
-#### 🧩 Otros
+#### 🧩 Productividad & Gestión
 <p>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-miro-282596.png" width="26px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="26px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="26px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" width="26px"/>
 </p>
 
 ---
 
 ### 🚀 Actualmente explorando
 
-<p>
-  <img src="https://developer.apple.com/assets/elements/icons/arkit/arkit-96x96_2x.png" width="26px"/>
-  <img src="https://arvr.google.com/static/images/arcore/arcore_logo_icon.svg" width="22px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="26px"/>
-</p>
+- 🧠 Experiencias 3D en la web (Three.js + R3F)
+- 🎮 Unity + AR (ARKit / ARCore)
+- ⚡ Interfaces interactivas tipo portafolio avanzado
 
 ---
 
 <p align="center">
-  ✨ Construyendo experiencias digitales que combinan código, diseño e interactividad.
+  ✨ Construyendo experiencias que combinan código, diseño e interactividad.
 </p>
