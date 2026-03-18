@@ -7,8 +7,9 @@
 <p align="center">
   🚀 Frontend Developer & Creative Technologist <br>
   🎨 UI/UX + Diseño + Experiencias Interactivas <br>
-  🔭 Actualmente en <strong><a href="https://www.instagram.com/bambu.team/" target="_blank">Bambu Team</a></strong><br>
-  🧠 Enfocado en <strong>React, Three.js & Experiencias Web Avanzadas</strong>
+  🧠 Fundador de <strong><a href="https://www.instagram.com/byconcua.studio/" target="_blank">ByConcua Studio</a></strong><br>
+  🔭 También colaborando en <strong><a href="https://www.instagram.com/bambu.team/" target="_blank">Bambu Team</a></strong><br>
+  ⚡ Enfocado en <strong>React, Three.js & Web Interactiva</strong>
 </p>
 
 ---
