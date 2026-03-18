@@ -41,7 +41,7 @@
 #### ⚡ Creative Dev & 3D
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="26px"/>
-  <img src="https://raw.githubusercontent.com/pmndrs/react-three-fiber/master/docs/logo.svg" width="26px"/>
+  <img src="https://www.nextzelatech.com/_next/image?url=%2Fassets%2Ftech-stack%2Fthreejs-icon.png&w=256&q=75" width="26px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="26px"/>
 </p>
 
